@@ -1,0 +1,11 @@
+Item Number	Name
+1	Hands
+2	Display
+3	Lower Body
+4	Plate
+5	Hole For Motors
+6	Hole For Connecting Upper Body
+7	Shaft For Connecting Lower Body
+8	Base For Electronics
+9	Head
+10	Sensor
